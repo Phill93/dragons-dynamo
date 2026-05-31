@@ -4,9 +4,9 @@
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-brown?style=flat-square&logo=minecraft)
 ![Forge](https://img.shields.io/badge/Forge-47.4.20-orange?style=flat-square)
-![Mods](https://img.shields.io/badge/Mods-36-green?style=flat-square)
+![Mods](https://img.shields.io/badge/Mods-38-green?style=flat-square)
 ![Packwiz](https://img.shields.io/badge/Packwiz-✓-blue?style=flat-square)
-![Version](https://img.shields.io/badge/Version-1.2.0-purple?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.3.0-purple?style=flat-square)
 
 ---
 
@@ -35,6 +35,7 @@ packwiz pull
 
 Direkt über die `.mrpack` Dateien installieren:
 
+- [Dragons Dynamo 1.3.0](Dragons%20Dynamo-1.3.0.mrpack)
 - [Dragons Dynamo 1.2.0](Dragons%20Dynamo-1.2.0.mrpack)
 - [Dragons Dynamo 1.1.0](Dragons%20Dynamo-1.1.0.mrpack)
 - [Dragons Dynamo 1.0.0](Dragons%20Dynamo-1.0.0.mrpack)
@@ -45,7 +46,7 @@ Direkt über die `.mrpack` Dateien installieren:
 
 ---
 
-## 📦 Modliste (36 Mods)
+## 📦 Modliste (38 Mods)
 
 ### ⚙️ Create Core
 
@@ -85,12 +86,13 @@ Direkt über die `.mrpack` Dateien installieren:
 
 | Mod | Beschreibung |
 |-----|-------------|
-| **JEI** | Rezepte anzeigen, Items suchen |
+| **WorldEdit** | In-Game Map Editor — Selections, `//set`, Schematics, Brushes |
 | **Jade** | Block- und Entity-Info im HUD |
 | **Mouse Tweaks** | Verbessertes Inventar-Maus-Scrollen |
 | **AppleSkin** | Hunger- und Sättigungsanzeige |
 | **Controlling** | Keybind-Konflikte finden |
 | **Searchables** | Suche in mehr Inventaren |
+| **Inventory Sorter** | Automatisches Sortieren von Inventaren mit konfigurierbarer Reihenfolge |
 | **GuideMe** | Interaktive Anleitung für Create |
 | **Xaero's Minimap** | Minimap in der Ecke |
 | **Xaero's World Map** | Vollbild-Weltkarte |
@@ -162,6 +164,10 @@ Max Moving Parts: 2048
 ---
 
 ## 📝 Changelog
+
+### v1.3.0
+- WorldEdit hinzugefügt (CurseForge)
+- Inventory Sorter (Configurable) hinzugefügt
 
 ### v1.2.0
 - Xaero's Minimap & World Map hinzugefügt
