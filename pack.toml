@@ -1,0 +1,12 @@
+name = "Dragons Dynamo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5226cddae292701ed94bb04bcdc48219175b638f77e343a6e144849801fe0230"
+
+[versions]
+forge = "47.4.20"
+minecraft = "1.20.1"
