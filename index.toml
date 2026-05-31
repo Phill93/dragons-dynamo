@@ -11,6 +11,11 @@ hash = "fa96526cc55c9fbac742aea245930f1a2db2e68b50765f1bdbaf85477e1631bf"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "8b9bd5d12a7068c334ab4ad626a9a86e70302cda90885daa531bfa842e8b29c5"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -164,7 +169,3 @@ metafile = true
 file = "mods/tinkers-construct.pw.toml"
 hash = "d976517d4d8951e9ee57ecdcdcb79a6c390614d595624b68287d945c2dcf9614"
 metafile = true
-
-[[files]]
-file = "setup.sh"
-hash = "e8f1642901c3f4196d3a013c3a96d951ca74d54c870eb5db978cac3f10df8fe8"
