@@ -1,11 +1,11 @@
 name = "Dragons Dynamo"
-version = "1.3.0"
+version = "1.3.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "da59d594c2be787e9b46eb90b09cb8c739e0178539eaf7667312e010d397ff7f"
+hash = "0d81e32d187daa10c40fc359d4f1f222e4817f0713dd4fca19cb098d78d21250"
 
 [versions]
 forge = "47.4.20"
