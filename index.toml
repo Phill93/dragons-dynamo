@@ -99,10 +99,6 @@ file = "mods/inventory-essentials.pw.toml"
 hash = "32861ab4e388db3e2e1d8c8bdb905e477d2e1db5651c2e38e45410ba61c95b88"
 metafile = true
 
-[[files]]
-file = "mods/inventory-sorter-configurable.pw.toml"
-hash = "15737439a8dbfff1c2bd5e89b89e31681faf8d0629edfa9b890021b7cec8367e"
-metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
