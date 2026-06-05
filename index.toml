@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a55da407afd55d84a18db1ed031ac1242b3becc74cea2c379e0d91e0cfd55052"
+hash = "63b07760201dacd65fd97204d71fcf1ed62e2992d0036e5d0ce379c6071d16e6"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+hash = "aca59c694729644466047813a7bb26f1c16fa3968788c694f77fa0436199e907"
 metafile = true
 
 [[files]]
