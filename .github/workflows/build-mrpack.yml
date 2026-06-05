@@ -29,13 +29,13 @@ jobs:
 
       - name: Pack modpack
         run: |
-          packwiz pack -o latest.mrpack
+          packwiz modrinth export -o latest.mrpack
 
       - name: Commit and push if changed
         run: |
           git config user.name "Blacky"
           git config user.email "blacky@openclaw.ai"
-          git add latest.mrpack
+          git add -f latest.mrpack
           if ! git diff --cached --quiet; then
             git commit -m "auto: rebuild latest.mrpack"
             git push
