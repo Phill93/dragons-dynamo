@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/build-mrpack.yml"
+hash = "4db7283f00f3f9c4dcb2b92c4d88f4dd89eeedee0238f9da2cb69e1f07c16ae6"
+
+[[files]]
 file = "README.md"
-hash = "040353d7b51b9947ce92f3ac6926afa78468b1680573f20bd372ac78d30bc197"
+hash = "3ececcd1cd4cd098b4e2aea0e42cdb667c503af04d1a85541487722d0aa9a13e"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -99,10 +103,9 @@ file = "mods/inventory-essentials.pw.toml"
 hash = "32861ab4e388db3e2e1d8c8bdb905e477d2e1db5651c2e38e45410ba61c95b88"
 metafile = true
 
-
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
+hash = "9fa0aae713fee3e5337b70b6bbb1f9504bee4be4c37a9a2d77b044d621ffcf6f"
 metafile = true
 
 [[files]]
