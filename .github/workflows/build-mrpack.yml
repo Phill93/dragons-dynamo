@@ -1,0 +1,42 @@
+name: Build latest.mrpack
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [default]
+    paths:
+      - 'pack.toml'
+      - 'index.toml'
+      - 'mods/**'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install packwiz
+        run: |
+          go install github.com/packwiz/packwiz/cmd/packwiz@latest
+
+      - name: Export modpack
+        run: |
+          packwiz export --filename "latest.mrpack"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "Blacky"
+          git config user.email "blacky@openclaw.ai"
+          git add latest.mrpack
+          if ! git diff --cached --quiet; then
+            git commit -m "auto: rebuild latest.mrpack"
+            git push
+          else
+            echo "No changes to commit"
+          fi
