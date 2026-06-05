@@ -27,9 +27,9 @@ jobs:
       - name: Add Go bin to PATH
         run: echo "$HOME/go/bin" >> $GITHUB_PATH
 
-      - name: Export modpack
+      - name: Pack modpack
         run: |
-          packwiz export --filename "latest.mrpack"
+          packwiz pack -o latest.mrpack
 
       - name: Commit and push if changed
         run: |
