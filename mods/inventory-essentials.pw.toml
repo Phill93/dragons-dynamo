@@ -1,13 +1,13 @@
 name = "Inventory Essentials"
-filename = "inventoryessentials-forge-1.20.1-8.2.16.jar"
+filename = "inventoryessentials-forge-1.20.1-8.2.18.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Boon8xwi/versions/nueoaqGL/inventoryessentials-forge-1.20.1-8.2.16.jar"
+url = "https://cdn.modrinth.com/data/Boon8xwi/versions/lymlfcUI/inventoryessentials-forge-1.20.1-8.2.18.jar"
 hash-format = "sha512"
-hash = "a36d0f296110f837bbed59351f97e915134d1309f1ab63ba3164536a41becd5c8c391e11fd2c5f9c90f760d120185b87135166353b3a25594bac84af70c69e0c"
+hash = "e2f96fe07bed3576aced533487f0c88dfe5b24b2f22841caff558cb69d7b5a0da1f1fe61da382fa49daf8ce8d098a440328f2e5cb7c1ffab1871bb0b949cf030"
 
 [update]
 [update.modrinth]
 mod-id = "Boon8xwi"
-version = "nueoaqGL"
+version = "lymlfcUI"

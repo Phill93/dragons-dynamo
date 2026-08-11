@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "fec49033058ced91f7668d4e305e599f5527501ef37c1f30f96d8927d6202d32"
+hash = "12c4913f51659fc1c0978004f411d9d9b878f589367e4fbe17ca5da60acbbce8"
 metafile = true
 
 [[files]]
@@ -50,12 +50,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "c670ae9055f10dafb61fe340583c361f4c41ed45671c9440bae1f0696b47252a"
+hash = "ba941c6990ee6633f74c612e040d0e533eee11707cd1763f6fa1b2d2dfbe93f9"
 metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-hash = "e2f6ea99d54ae392b33fb1911f9a3861cb43537435198f08df58a7c904a43883"
+hash = "ecbf9855b5d321b4feb6a5c57d281a0b9b3ba339afb6939d88a68f13a0b3f506"
 metafile = true
 
 [[files]]
@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "431ba898a794fc3598cab2dd2ae37cb639a012dfd579f0d5ff4e1d6cc7f33b07"
+hash = "d584896433cab9fdba6034182ce0f8376cfd5eb1255fa98ed47e535b94f7674b"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "c9081708402e1fd5e5936c3119a43717c0fd51185f940faa79dbbd8670d55a40"
+hash = "fbad2488da791994cbb4a0541e2dd22c536dbe6ca8f7edfdd9af12120e283fd2"
 metafile = true
 
 [[files]]
@@ -95,22 +95,22 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "2e42b3a809ec9b027e23714e01c255fe5111a9d4cd58fad114dd0f2aa75c0d7e"
+hash = "7cbc557e23729a2ab1a0dfa8832359edb640a9c4b2f1919e7c43cd5c7ccfdf3c"
 metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "32861ab4e388db3e2e1d8c8bdb905e477d2e1db5651c2e38e45410ba61c95b88"
+hash = "6a39b1f31cc4a40c13fe21de96121014c3c40c82a6ae3794e8abe11ea694595b"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "9fa0aae713fee3e5337b70b6bbb1f9504bee4be4c37a9a2d77b044d621ffcf6f"
+hash = "2088fdf5f304ba072df405b15aedceb94ed6844e6c244ca6472c5ef40c996b78"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "db5b0e49607113eb8740838753460e6d2f8c718828fcc52b9fefd13adc4e4cae"
+hash = "200a44c0c69a97972697c481a223adc5de1de3ff7dade5674876263498d5ae56"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "63b07760201dacd65fd97204d71fcf1ed62e2992d0036e5d0ce379c6071d16e6"
+hash = "1f862d7186e52e9bc96c4ec19ab62d2af9fffdd5dc056176f4be7ae4015345c0"
 metafile = true
 
 [[files]]
@@ -200,10 +200,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "38b987b54c0b5405a89465bf16613a283740650122ac373fc365cd13afe5eb69"
+hash = "20beda5f9b049a2352334a0f8dd8de122e7399f8a446d8f78aeecba85d99bbdc"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7bc86ce52ef42d948462c04658553448e5e909fb952f4b485e375d435c3ec751"
+hash = "d08d445bae50b78091dfe85336456b768c8c29ee807dfea6c65497f1371443ff"
 metafile = true
